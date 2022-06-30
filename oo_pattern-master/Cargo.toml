@@ -1,0 +1,9 @@
+[package]
+name = "oo_pattern"
+version = "0.1.0"
+authors = ["chupe <velahavle@gmail.com>"]
+
+[dependencies]
+blog = {path = "blog"}
+
+[workspace]
